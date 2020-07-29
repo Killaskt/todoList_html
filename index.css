@@ -1,0 +1,56 @@
+body {
+    background: lightblue;
+  }
+  
+  .todo-cont {
+      margin: 0 auto;
+    width: 40%;
+    text-align: center;
+    borde: 1px solid black;
+    background-color: lightblue;
+  }
+  
+  .divider {
+    margin-bottom: 3rem;
+  }
+  
+  .todoList {
+    min-height: 3rem;
+    background: lightgrey;
+    margin: 1rem;
+    border: 2px solid blue;
+  }
+  
+  .todoList-cont {
+    text-align: left;
+  }
+  
+  .todoList-cont h4 {
+    margin-left: 1rem;
+  }
+  
+  .todoList {
+    display: flex;
+    flex-flow: column;
+    font-family: helvetica, arial, sans-serif;
+  }
+  
+  .li_btn {
+    float: right;
+    margin-right: 1rem;
+  }
+  
+  h1 {
+    color: black;
+    font-family: helvetica, arial, sans-serif;
+    font-size: 40px;
+    border: 2px solid black;
+    border-color: blue;
+    background: lightgrey;
+  }
+  
+  h4 {
+    color: Black;
+    font-family: helvetica, arial, sans-serif;
+    font-size: 20px;
+  }
